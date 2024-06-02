@@ -31,13 +31,17 @@ The Book Store Application is a web-based project developed using ReactJS that a
     ```sh
     npm install
     ```
+4. Set the ExecutionPolicy:
+    ```sh
+    Set-ExecutionPolicy -Scope Process Bypass
+    ```
 
 ### Running the Application
 1. Watch the `books.json`:
     ```sh
     json-server --watch src/books.json --port 3005
     ```
-2. Start the development server:
+2. Start the development server in the new terminal after navigating to project directory:
     ```sh
     npm start
     ```
