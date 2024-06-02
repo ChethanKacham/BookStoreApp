@@ -1,0 +1,48 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "Title": "All yours Stranger",
+      "Author": "Novaneel Chakraborthy",
+      "ISBN": "3333333",
+      "PublicationDate": "20-12-1946",
+      "Publisher": "Novaneel",
+      "Price": 123,
+      "Genre": "Mystery",
+      "Format": "word document"
+    },
+    {
+      "id": 2,
+      "Title": "The Vampire Diaries ",
+      "Author": "Chris Grismer",
+      "ISBN": 222222222,
+      "PublicationDate": "20-12-2009",
+      "Publisher": "Chris",
+      "Price": 142,
+      "Genre": "Horror",
+      "Format": "word document"
+    },
+    {
+      "id": 3,
+      "Title": "Revolution2020",
+      "Author": "Chethan Bhagat",
+      "ISBN": 3333333333,
+      "PublicationDate": "20-11-1956",
+      "Publisher": "Chethan",
+      "Price": 121,
+      "Genre": "Romance",
+      "Format": "pdf"
+    },
+    {
+      "Title": "Gossip Girl",
+      "Author": "Serena Vander Woodson",
+      "ISBN": 444444444,
+      "PublicationDate": "13-6-2008",
+      "Publisher": "Dan Humphrey",
+      "Price": 240,
+      "Genre": "Drama",
+      "Format": "pdf",
+      "id": 4
+    }
+  ]
+}

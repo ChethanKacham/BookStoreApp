@@ -1,0 +1,36 @@
+{
+    "name": "bookstore-app",
+    "version": "1.0.0",
+    "description": "A ReactJS app for managing a bookstore",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "ajv": "^6.12.6",
+        "ajv-errors": "^1.0.1",
+        "axios": "^1.7.2",
+        "bootstrap": "^5.3.3",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "^5.0.1",
+        "reactstrap": "^9.2.2"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.2"
+    }
+}
